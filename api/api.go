@@ -5,19 +5,9 @@ import (
 	"gopkg.in/mgo.v2"
 	"net/http"
 	"log"
-	//"gopkg.in/mgo.v2/bson"
 	"encoding/json"
-	//"strings"
-	//"strconv"
-	//"reflect"
-	//"fmt"
-	//"gopkg.in/mgo.v2/bson"
 	"strings"
-	//"strings"
-	//"bytes"
 	"ipmserver/config"
-	//"io"
-	//"unicode"
 )
 
 var (
